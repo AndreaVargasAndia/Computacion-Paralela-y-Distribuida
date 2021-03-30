@@ -1,0 +1,3 @@
+http://www.netlib.org/utk/papers/autoblock/node2.html
+https://math.stackexchange.com/questions/787909/block-matrix-multiplication
+https://malithjayaweera.com/2020/07/blocked-matrix-multiplication/
